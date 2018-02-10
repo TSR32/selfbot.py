@@ -14,7 +14,7 @@
     },
     "GITHUBTOKEN": {
       "description": "Token for github api usage.",
-      "required": false
+      "required": true
     }
   }
 }
